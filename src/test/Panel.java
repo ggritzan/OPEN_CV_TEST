@@ -25,6 +25,9 @@ public class Panel extends JPanel {
 		super();
 	}
 
+	/**
+	 * setzt das Bild
+	 */
 	private BufferedImage getImage() {
 		return image;
 	}
